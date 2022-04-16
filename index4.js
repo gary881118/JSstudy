@@ -1,4 +1,4 @@
-// For迴圈
+ For迴圈
 
 // let a = 10
 // a = a + 20
@@ -54,6 +54,8 @@
 //     desc: '貼文二'
 //   },
 // ]
+
+
 
 // for(let i = 0; i < posts.length; i++) {
 //   if (i === 0) {

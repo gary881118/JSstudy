@@ -63,7 +63,7 @@ class Porshe extends Car {
   // }
 }
 
-const p1 = new Porshe("布魯斯的保時捷")
+const p1 = new Porshe("保時捷")
 p1.start()
 // TODO del
 console.log('name', p1.name)

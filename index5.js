@@ -30,6 +30,7 @@
 // addMoney()
 
 
+
 // 有參數的 function
 // 接受傳入2個參數
 function addMoney(price1, price2, discount) {

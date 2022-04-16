@@ -11,7 +11,7 @@ let igPhotos = [
   'https://xx.img.com/a3.png'
 ]
 
-// console.log('第1筆', igPhotos[0]) // index = 0
+ console.log('第1筆', igPhotos[0]) // index = 0
 // console.log('第2筆', igPhotos[1])
 // console.log('第3筆', igPhotos[2])
 // console.log('第4筆', igPhotos[4])
@@ -25,7 +25,7 @@ let igPhotos = [
 
 // 物件 Object
 const card = {
-  name: '布魯斯前端的名片',
+  name: '名片',
   addres: '新加坡xxxxxx',
   age: 999,
 }

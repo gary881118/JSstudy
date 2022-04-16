@@ -54,6 +54,7 @@ function render() {
 
 addedBtn.addEventListener('click', function () {
 
+  
   listContent.unshift({
     content: content.value,
     date: date.value,

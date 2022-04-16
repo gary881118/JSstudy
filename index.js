@@ -10,7 +10,7 @@ console.log(alert2)
 
 let score = 100 // number 數字
 // + - * / %
-// console.log(score % 3)
+ console.log(score % 3)
 
 // let isFake = true // true false boolean 布林
 // console.log(isFake)

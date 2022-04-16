@@ -1,7 +1,7 @@
 // callback 回呼
 window.addEventListener('load', function () {
   const p1 = document.getElementById('title')
-  p1.innerText = "訂閱布魯斯前端"
+  p1.innerText = "前端"
 
   const b1 = document.getElementById('btn')
 
